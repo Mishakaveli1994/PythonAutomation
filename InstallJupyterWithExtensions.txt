@@ -15,7 +15,8 @@ pip install nb-mermaid
 jupyter notebook
 
 pip install jupyterlab
-jupyter-lsp extension
+pip install jupyterlab-lsp
 pip install 'python-lsp-server[all]'
+pip install jupyterlab_rise
 enable code autocomplete both in lsp and standard code completion
 jupyter lab

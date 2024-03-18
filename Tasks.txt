@@ -1,0 +1,4 @@
+Create homework for Lesson 2
+Create GitHub tutorial - use https://docs.github.com/en/get-started/start-your-journey/hello-world
+Push only needed files to repo
+Diagram for Python's main components (Interpreter) and difference between compiled code

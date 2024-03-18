@@ -1,0 +1,21 @@
+python -m pip install jupyter_contrib_nbextensions
+python -m pip install --upgrade notebook==6.4.12
+pip uninstall traitlets
+pip install traitlets==5.9.0
+pip uninstall ipython
+pip install ipython==8.9.0
+jupyter contrib nbextension install --user
+python -m pip install jupyter-tabnine
+jupyter nbextension install --py jupyter_tabnine --user
+jupyter nbextension enable jupyter_tabnine --user --py
+jupyter serverextension enable --py jupyter_tabnine --user
+python -m pip install RISE
+enable hinterland in extensions
+pip install nb-mermaid
+jupyter notebook
+
+pip install jupyterlab
+jupyter-lsp extension
+pip install 'python-lsp-server[all]'
+enable code autocomplete both in lsp and standard code completion
+jupyter lab

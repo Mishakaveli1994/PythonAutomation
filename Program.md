@@ -23,6 +23,7 @@
    16. Lesson 7: Anonymous functions, Generators + Decorators
    17. Lesson 8: Regex
 
+Context Manager
 4. Python advanced:
    1. Object Oriented Programming - classes, what are they used for
    2. SOLID principles

@@ -11,17 +11,18 @@
    4. Lesson 2: Comments
    5. Lesson 2: Operators
    6. Lesson 2: PEP8 & Language Philosophy
-   7. Lesson 3: Data structures (lists, tuples and dicts), slicing
+   7. Lesson 3: Data structures (lists, tuples and dicts), 
    8. Lesson 3: Functions + scopes
-   9. Lesson 4: Iteration & Comprehension
-   10. Lesson 4: logger
-   11. Lesson 4: Map + Filter + Recursion
-   12. Lesson 5: Control Flow
-   13. Lesson 5: Working with Strings, formatting
-   14. Lesson 6: File Input/Output
-   15. Lesson 6: Function definitions + documentation, parameters (args, kwargs)
-   16. Lesson 7: Anonymous functions, Generators + Decorators
-   17. Lesson 8: Regex
+   9. Lesson 4: Loops,  Enumeration, Slicing , Comparison Operators, logical operators, if, else, elif
+   10. Lesson 5: Comprehension
+   11. Lesson 5: Map + Filter + Recursion, Sorting
+   12. Lesson 6: Exception Control Flow + Exceptions
+   13. Lesson 6: logger
+   14. Lesson 7: Working with Strings, formatting, split, join
+   15. Lesson 7: File Input/Output
+   16. Lesson 8: Function definitions + documentation, parameters (args, kwargs)
+   17. Lesson 8: Anonymous functions, Generators + Decorators
+   18. Lesson 8: Regex
 
 Context Manager
 4. Python advanced:

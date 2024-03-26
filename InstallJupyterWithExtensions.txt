@@ -1,3 +1,4 @@
+# DO NOT USE THIS
 python -m pip install jupyter_contrib_nbextensions
 python -m pip install --upgrade notebook==6.4.12
 pip uninstall traitlets
@@ -14,6 +15,7 @@ enable hinterland in extensions
 pip install nb-mermaid
 jupyter notebook
 
+# USE THIS
 pip install jupyterlab
 pip install jupyterlab-lsp
 pip install 'python-lsp-server[all]'

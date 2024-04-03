@@ -15,14 +15,15 @@
    8. Lesson 3: Functions + scopes
    9. Lesson 4: Loops,  Enumeration, Slicing , Comparison Operators, logical operators, if, else, elif
    10. Lesson 5: Comprehension
-   11. Lesson 5: Map + Filter + Recursion, Sorting
-   12. Lesson 6: Exception Control Flow + Exceptions
-   13. Lesson 6: logger
-   14. Lesson 7: Working with Strings, formatting, split, join
-   15. Lesson 7: File Input/Output
-   16. Lesson 8: Function definitions + documentation, parameters (args, kwargs)
-   17. Lesson 8: Anonymous functions, Generators + Decorators
-   18. Lesson 8: Regex
+   11. Lesson 5: Map + Filter + Anonymous functions, Sorting, zip, flatten
+   12. Lesson 6: Working with Strings, formatting, split, join
+   13. Lesson 6: File Input/Output
+   14. Lesson 7: JSON, XML, XLSX, HTML Parsers 
+   15. Lesson 7: Function definitions + documentation, parameters (args, kwargs)
+   16. Lesson 7: Exception Control Flow + Exceptions
+   17. Lesson 7: logger
+   18. Lesson 8: Recursion, Generators + Decorators
+   19. Lesson 8: Regex
 
 Context Manager
 4. Python advanced:

@@ -38,15 +38,17 @@ T100 C
 T100 C
 T100 C
 T200 Start
-T250 SomethingElse
+T200 Start
+T200 Start
+T250 1
 T300 End
 T100 C
 T100 C
 T200 Start
-T250 SomethingElse
+T250 2
 T300 End
 T200 Start
-T250 SomethingElse
+T250 3
 T300 End
 T500 Random"""
 
@@ -73,10 +75,16 @@ end = 'T300'
 
 group_list = []
 
+    # if line.startswith(start):
+    #     if not group[-1].startswith(start):
+    #         group.append(line)
+    #     continue
+
 group = []
 for line in string.split('\n'):
     if line.startswith(start):
-        group.append(line)
+        if not group or not group[-1].startswith(start):
+            group.append(line)
         continue
     elif line.startswith(end):
         group.append(line)
